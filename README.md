@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 </details>
 
 
-[![Thrilok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thrilok28021996)](https://github.com/anuraghazra/github-readme-stats)
+[![Thrilok's GitHub stats](https://github-readme-stats-thrilok28021996.vercel.app/api?username=Thrilok28021996)](https://github.com/anuraghazra/github-readme-stats)
