@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 
 ---
-![Thrilok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thrilok28021996&show_icons=true&theme=radical)
+![Thrilok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thrilok28021996&show_icons=true&theme=radical)(https://github.com/Thrilok28021996/github-readme-stats)
