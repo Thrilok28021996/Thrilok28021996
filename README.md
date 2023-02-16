@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 
 ---
-<img align-"left" alt = "Thrilok's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Thrilok28021996&show_icons=true" &hide_border=true/>
+![Thrilok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thrilok28021996&show_icons=true&theme=radical)
