@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am Thrilok 👋
+
+### I'm a ML Engineer and enthusiastic about Learning new things related to ML, Deep Learning and Robotics 🤖
 
 <!--
 **Thrilok28021996/Thrilok28021996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,3 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: By email thrilokemmadisetty@protonmail.com
 - 🥅 2023 Goals: Contribute to open source projects
 - ⚡ Fun fact: I love to watch anime, listen to music, reading books
+
+
+---
+<img align-"left" alt = "Thrilok's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Thrilok28021996&show_icons=true" &hide_border=true/>
