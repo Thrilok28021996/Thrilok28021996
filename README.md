@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Thrilok emmadisetty's GitHub Stats" src="github-readme-stats-iota-rosy.vercel.app/api?username=Thrilok28021996&show_icons=true&hide_border=false" />
+---
+ <img align="left" alt="Thrilok emmadisetty's GitHub Stats" src="github-readme-stats-iota-rosy.vercel.app/api?username=Thrilok28021996&show_icons=true&hide_border=false" />
 
-</details>
+
