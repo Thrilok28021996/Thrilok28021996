@@ -1,6 +1,5 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Thrilok Emmadisetty</h1>
 
-![github_cover_banner](https://user-images.githubusercontent.com/78341798/194530701-85313fde-3a37-40b9-9d82-77a4e41da85a.gif)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a ML Enginner and entusiastic about learning new thinhgs related to ML, Deep Learning, AI.
@@ -14,21 +13,11 @@
 <br>
 <!-- Languages and Tools -->
 
-<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
-<div align="center" style="display:block;">
-    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
-</div>
-
-<br>
-<br>
-
 
 
 <!-- Statistics -->
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
-
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
