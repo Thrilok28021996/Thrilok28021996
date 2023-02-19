@@ -2,7 +2,7 @@
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a ML Enginner and entusiastic about learning new thinhgs related to ML, Deep Learning, AI.
+    I am a ML Enginner and entusiastic about learning new things related to ML, Deep Learning, AI.
 <br>
 <br>
 <div align="center">
