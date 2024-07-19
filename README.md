@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thrilokemmadisetty/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/thrilok_e"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="mailto:thrilokemmadisetty@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -26,21 +25,12 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Project 1</h3>
+      <h3 align="center">EDA and Preprocessing</h3>
       <div align="center">  
-        <a href="https://github.com/yourusername/project1" target="_blank">
+        <a href="[https://github.com/Thrilok28021996/EDA-Preprocessing_StreamApp]" target="_blank">
           <img src="https://via.placeholder.com/300x200?text=Project+1+Image" width="300" alt="Project 1"/>
         </a>
-        <p><strong>Python, TensorFlow, OpenCV</strong> - A brief description of your project goes here.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project 2</h3>
-      <div align="center">  
-        <a href="https://github.com/yourusername/project2" target="_blank">
-          <img src="https://via.placeholder.com/300x200?text=Project+2+Image" width="300" alt="Project 2"/>
-        </a>
-        <p><strong>PyTorch, NLP, Docker</strong> - A brief description of your project goes here.</p>
+        <p><strong>Python, Streamlit, Pandas</strong> - To make the data analysis simpler for a non-domain user.</p>
       </div>
     </td>
   </tr>
@@ -57,11 +47,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thrilok28021996&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="Most Used Languages" height="170"/>
 </div>
 
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thrilok28021996&theme=github_dark" alt="Thrilok's GitHub Stats" style="max-width: 100%; height: auto;">
+</div>
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Thrilok28021996&theme=algolia&row=1&column=6" alt="Thrilok's Trophies" />
 </div>
 
-<h2 style="color: #44AEFB">📝 Latest Blog Posts</h2>
+<!-- <h2 style="color: #44AEFB">📝 Latest Blog Posts</h2> -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -70,7 +64,6 @@
   <h3>💼 Let's Connect!</h3>
   <p>I'm always open to collaborating on projects and innovative ideas. Feel free to reach out to me!</p>
   <a href="https://www.linkedin.com/in/thrilokemmadisetty/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/thrilok_e"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"/></a>
   <a href="mailto:thrilokemmadisetty@protonmail.com"><img src="https://img.icons8.com/color/48/000000/email.png" alt="Email"/></a>
 </div>
 
