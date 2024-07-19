@@ -1,39 +1,28 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Thrilok Emmadisetty</h1>
+<h1 align="center" style="color: #44AEFB; font-size: 36px; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">
+  👨🏻‍💻 Thrilok Emmadisetty
+</h1>
 
+<p align="center" style="font-size: 18px; line-height: 1.5; max-width: 600px; margin: 20px auto;">
+  I am an ML Engineer passionate about exploring new frontiers in Machine Learning, Deep Learning, and Artificial Intelligence.
+</p>
 
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a ML Enginner and enthusiastic about learning new things related to ML, Deep Learning, AI.
-<br>
-<br>
-<div align="center">
-
-[Email Me](mailto:thrilokemmadisetty@protonmail.com)
+<div align="center" style="margin-top: 20px;">
+  <a href="mailto:thrilokemmadisetty@protonmail.com" style="background-color: #44AEFB; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">Email Me</a>
 </div>
-</p>    
-<br>
-<!-- Languages and Tools -->
 
 
+<h2 align="center" style="color: #44AEFB; margin-top: 40px;">📊 GitHub Statistics</h2>
 
-<!-- Statistics -->
-
-<h2 style="color: #44AEFB">📊 Statistics</h2>
-
-<!-- Begin Stats Cards -->
-<!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username. -->
-<div class="stats" align="left">
-
-![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thrilok28021996&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Thrilok28021996&count_private=true&theme=algolia&border_radius=20)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thrilok28021996&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thrilok28021996&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="GitHub Stats" style="max-width: 100%; height: auto;">
+  
+  <img src="https://streak-stats.demolab.com?user=Thrilok28021996&count_private=true&theme=algolia&border_radius=20" alt="GitHub Streak" style="max-width: 100%; height: auto;">
 </div>
-<div align="right">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thrilok28021996&theme=github_dark" alt="Thrilok's GitHub Stats"/>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thrilok28021996&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="Most Used Languages" style="max-width: 100%; height: auto;">
 </div>
-<!--  End Stats Cards -->
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thrilok28021996&theme=github_dark" alt="Thrilok's GitHub Stats" style="max-width: 100%; height: auto;">
+</div>
