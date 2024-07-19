@@ -27,6 +27,9 @@
 <div class="stats" align="center">
 
 ![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thrilok28021996&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thrilok28021996&theme=github_dark" alt="Thrilok's GitHub Stats"/>
+</div>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Thrilok28021996&count_private=true&theme=algolia&border_radius=20)
 
