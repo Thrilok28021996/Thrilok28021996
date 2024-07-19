@@ -28,11 +28,12 @@
       <h3 align="center">EDA and Preprocessing</h3>
       <div align="center">  
         <a href="[https://github.com/Thrilok28021996/EDA-Preprocessing_StreamApp]" target="_blank">
-          <img src="https://via.placeholder.com/300x200?text=Project+1+Image" width="300" alt="Project 1"/>
+          <img width="1422" alt="Screenshot 2024-07-19 at 6 59 58 PM" src="https://github.com/user-attachments/assets/dbc51602-97f4-41dd-82e2-0fb263435565">
         </a>
         <p><strong>Python, Streamlit, Pandas</strong> - To make the data analysis simpler for a non-domain user.</p>
       </div>
     </td>
+    <!-- Add projects here -->
   </tr>
 </table>
 
