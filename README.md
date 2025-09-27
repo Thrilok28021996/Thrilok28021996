@@ -2,15 +2,12 @@
 I am a Machine Learning Engineer passionate about exploring new frontiers in ML, Deep Learning, and AI. With a strong foundation in data science and software engineering, I strive to create innovative solutions that push the boundaries of what's possible with AI.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thrilokemmadisetty/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thriloke96@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thrilokemmadisetty/)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thriloke96@gmail.com)
 
 # 💻 Tech Stack:
 
 ### 🖥️ Programming & Scripting
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 
 ### 📊 Data Science & Machine Learning
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  
