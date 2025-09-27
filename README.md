@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Thriloke Madisetty!
+# 👋 Hi there, I'm Thrilok Emmadisetty!
 
 ## 💫 Machine Learning Engineer | AI Innovator | Data Science Enthusiast
 
@@ -9,7 +9,7 @@ I'm a passionate Machine Learning Engineer with expertise in building intelligen
 🔭 **Currently working on:** Advanced Computer Vision projects and MLOps pipeline optimization  
 🌱 **Learning:** Large Language Models, Generative AI, and Cloud-Native ML architectures  
 💡 **Passionate about:** Pushing the boundaries of AI to create meaningful impact  
-📍 **Location:** Vijayawada, Andhra Pradesh, India
+📍 **Location:** Guntur, Andhra Pradesh, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thrilokemmadisetty/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thrilokemmadisetty@protonmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Thrilok28021996)
 
