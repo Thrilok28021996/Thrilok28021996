@@ -75,9 +75,9 @@ Custom YOLO-based object detection system for industrial automation.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thrilok28021996&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thrilok28021996&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Thrilok28021996&theme=dark&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Thrilok28021996&theme=dark&hide_border=false&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thrilok28021996&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
