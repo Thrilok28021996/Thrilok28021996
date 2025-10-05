@@ -18,19 +18,8 @@ I am a Machine Learning Engineer passionate about exploring new frontiers in ML,
 ### 🛠️ Tools & Utilities
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Thrilok28021996&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>  
-![](https://nirzak-streak-stats.vercel.app/?user=Thrilok28021996&theme=dark&hide_border=false)<br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thrilok28021996&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Thrilok28021996&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Thrilok28021996&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
