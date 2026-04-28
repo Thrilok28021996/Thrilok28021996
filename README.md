@@ -1,5 +1,6 @@
 # 💫 About Me
-I am a Machine Learning Engineer passionate about exploring new frontiers in ML, Deep Learning, and AI. With a strong foundation in data science and software engineering, I strive to create innovative solutions that push the boundaries of what's possible with AI.
+# Hi, I'm Thrilok 👋
+Applied AI Engineer building GenAI systems, LLM workflows, agentic automation, and production ML solutions.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thrilokemmadisetty/)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thriloke96@gmail.com)
