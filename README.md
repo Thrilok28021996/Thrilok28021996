@@ -1,6 +1,7 @@
 # 💫 About Me
-# Hi, I'm Thrilok 👋
-Applied AI Engineer building GenAI systems, LLM workflows, agentic automation, and production ML solutions.
+# Thrilok Emmadisetty
+
+Applied AI Engineer focused on GenAI systems, LLM orchestration, autonomous agents, and production-grade ML applications.
 
 🚧 Currently Building: Autonomous Research Agent Framework
 
